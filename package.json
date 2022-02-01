@@ -1,0 +1,14 @@
+{
+  "name": "deploy-heroku",
+  "version": "1.0.0",
+  "description": "Test deploy no Heroku com Node e Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Bruno Santos",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.2"
+  }
+}
